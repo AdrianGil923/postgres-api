@@ -78,5 +78,6 @@ module.exports = {
    deleteUser,
    updateUser,
    getUserById // No te olvides de la coma antes de la exportación final
+
 };
 
